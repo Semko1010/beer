@@ -1,0 +1,32 @@
+section{
+    text-align: center;
+}
+section img{
+    width:13%;
+    height: 140px;
+}
+.flex{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 50px 0;
+}
+.flex > div{
+    padding-bottom: 15px;
+    width: 200px;
+    border-bottom: 1px solid black;
+}
+.flex > div p:nth-of-type(1){
+    color:#FFCA41;
+    margin: 0 0 10px 0;
+}
+.flex > div p:nth-child(2){
+    
+}
+.buttonLink{
+    background-color: #FFCA41;
+    width:100px;
+    padding:5px 0;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 15px;
+}

@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+  }
+  .header img{
+    border-top-right-radius: 15px;
+    width: 80%;
+    margin: 20px 0 0 0;
+  }
+  .header p{
+    width: 80%;
+    margin: 5px 0 0 40px;
+    font-family: Roboto Slab;
+    font-weight: 500;
+  }
+  .pTags{
+    text-align: start;
+  }
+  .beerButtons{
+      border-bottom-left-radius: 20px;
+    color: white;
+    padding: 5px 0;
+    background-color: #FFCA41;
+    width:80%;
+    margin: 0 auto;
+  }
